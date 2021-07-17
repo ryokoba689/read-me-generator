@@ -1,6 +1,8 @@
 # read me generator
 ![](readme (2).webm)
-
+<video width="320" height="240" controls>
+  <source src="readme (2).webm" type="video/mp4">
+</video>
 ## User Story
 
 ```md

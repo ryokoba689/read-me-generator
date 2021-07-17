@@ -1,6 +1,6 @@
 # read me generator
- ![ Alt text](readme (2). gif)
- 
+![Alt Text](readme (2).gif)
+ readme (2).gif
  ! [](readme (2). gif)
 ## User Story
 

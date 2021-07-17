@@ -1,5 +1,5 @@
 # read me generator
-![Alt Text](readme (2).gif)
+![Alt Text](https://raw.githubusercontent.com/ryokoba689/read-me-generator/main/readme%20(2).gif)
  readme (2).gif
  ! [](readme (2). gif)
 ## User Story
